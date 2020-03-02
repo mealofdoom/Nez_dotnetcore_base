@@ -1,0 +1,3 @@
+[submodule "Nez_dotnet_standard"]
+	path = Nez_dotnet_standard
+	url = https://github.com/mealofdoom/Nez_dotnet_standard.git
