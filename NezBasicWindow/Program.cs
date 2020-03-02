@@ -1,12 +1,16 @@
-﻿using System;
+﻿using FNATemplate.Game;
+using System;
 
-namespace NezBasicWindow
+namespace FNATemplate
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using(var game = new TemplateClient())
+            {
+                game.Run();
+            }
         }
     }
 }
