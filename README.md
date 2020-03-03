@@ -6,6 +6,8 @@
 of the official Nez-Samples repository @ https://github.com/prime31/Nez-Samples. The latter has been modified both to target
 the platforms of this solution, but also to fix some build errors that were caused by conflicting project references.
 
+I recommended creating a fork of this repository if you intend to use it.
+
   In order to compile the projects just run:
 
 `
@@ -15,6 +17,8 @@ dotnet build
 `
 dotnet run
 `
+
+on their respective folders.
 
 The Nez-Samples project requires the FNA libs, which you can find in the following link:
 
