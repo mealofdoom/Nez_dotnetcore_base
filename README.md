@@ -24,6 +24,12 @@ The Nez-Samples project requires the FNA libs, which you can find in the followi
 
 https://github.com/FNA-XNA/FNA/wiki/1:-Download-and-Update-FNA#2-download-native-libraries
 
+Just unpack the archive into a folder called 'fnalibs'. The folder should be in the same level as the other projects:
+
+-FNA
+-NezBasicWindow
+-Nez-Samples
+-fnalibs
 
 If any issues arise when building/compiling please create an issue. With that said I cannot offer support to either FNA or Nez
 and issues with said libraries should be forwarded to their respective repos:
